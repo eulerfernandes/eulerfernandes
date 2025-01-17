@@ -36,8 +36,7 @@
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
-![]()
-![]()
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ## Tool Chart
 
 ![Euler Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=eulerfernandes&show_icons=true&theme=highcontrast)
